@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Bui Le Thao
+* Student Name: Bùi Lê Thảo
 * Student ID: BI11-251
